@@ -1,0 +1,3 @@
+git：
+
+1.秘钥公钥：公钥——带ssh那个，私钥——git命令生成或者putty生成，如果采用putty生成，要把ppk转为openssh格式，putty上面有这个按钮。
