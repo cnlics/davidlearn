@@ -1,0 +1,4 @@
+查看可用的模块：
+puppet describe -l查看所有
+puppet describe -s + 模块名，查看该模块的使用方法
+puppet describe -m
