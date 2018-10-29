@@ -1,0 +1,4 @@
+主要配置文件：
+
+查找puppet程序：whereis puppet，在/etc/puppet/下可以找到puppet.conf配置文件
+这个文件定义了manifest的路径及modules的路径
